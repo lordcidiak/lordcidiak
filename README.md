@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there 👋
+
+Soy un estudiante de ingenieria de sistemas en la universidad javeriana 
+
+Ahora ando haciendo un proyecto de final de curso de programacion a computadores el repositorio es juego UNO.
+
+Y tambien ando desarrollando una aplicaion movil en android para la gerstion de inventarios.
 
 <!--
 **lordcidiak/lordcidiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
