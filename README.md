@@ -2,7 +2,7 @@
 
 Soy un estudiante de ingenieria de sistemas en la universidad javeriana 
 
-Ahora ando haciendo un proyecto de final de curso de programacion a computadores el repositorio es juego UNO.
+Algunos dias ando en stream si quieres pasar aca esta el link: https://www.twitch.tv/xlordwubbax
 
 Y tambien ando desarrollando una aplicaion movil en android para la gerstion de inventarios.
 
